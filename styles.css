@@ -1,0 +1,14 @@
+#pills-three-layout-tab, #pills-single-layout-tab {
+    color: gray;
+    background: none ;
+}
+.nav-pills .nav-link.active {
+    color: blue !important;
+}
+.second-tab .nav-link.active svg {
+    background-color: blue;
+    border-radius: 2px;
+}
+.dropdown-toggle svg{
+    margin-bottom: 3px
+}
